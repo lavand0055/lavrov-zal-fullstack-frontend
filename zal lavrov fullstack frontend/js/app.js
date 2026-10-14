@@ -360,3 +360,4 @@ document.addEventListener("DOMContentLoaded", () => {
   initHall();
   initProfile();
 });
+// Обновление рейтинга залов
